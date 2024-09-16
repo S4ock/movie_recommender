@@ -1,10 +1,10 @@
 # Movie Recommendation System
 
-This project implements a content-based movie recommendation system. The system recommends movies similar to a given movie title based on features extracted from movie metadata.
+I implement a content-based movie recommendation system. The system recommends movies similar to a given movie title based on features extracted from movie metadata.
 
 ## Project Overview
 
-The recommendation system uses a dataset of movies and their credits to suggest similar movies. The process involves data preprocessing, feature extraction, and computing similarity scores to generate recommendations.
+The recommendation system uses a dataset of movies from kaggle and their credits to suggest similar movies. The process involves data preprocessing, feature extraction, and computing similarity scores to generate recommendations.
 
 ## Dependencies
 

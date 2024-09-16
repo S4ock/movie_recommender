@@ -1,6 +1,7 @@
 # Movie Recommendation System
 
 I implement a content-based movie recommendation system. The system recommends movies similar to a given movie title based on features extracted from movie metadata.
+The training files are too big to be downloaded via github,so you can get them from  https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ## Project Overview
 
